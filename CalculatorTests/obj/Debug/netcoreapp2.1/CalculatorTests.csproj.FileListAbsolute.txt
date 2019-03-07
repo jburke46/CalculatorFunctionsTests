@@ -1,0 +1,11 @@
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.csprojAssemblyReference.cache
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.AssemblyInfo.cs
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.deps.json
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.runtimeconfig.json
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.runtimeconfig.dev.json
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.dll
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.pdb
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.dll
+C:\Users\Elixir\source\repos\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.pdb

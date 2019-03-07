@@ -1,0 +1,17 @@
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\TestingOperations.deps.json
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\TestingOperations.runtimeconfig.json
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\TestingOperations.runtimeconfig.dev.json
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\TestingOperations.dll
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\TestingOperations.pdb
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\CalculatorTests.dll
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\bin\Debug\netcoreapp2.1\CalculatorTests.pdb
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.csprojAssemblyReference.cache
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.csproj.CoreCompileInputs.cache
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.AssemblyInfoInputs.cache
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.AssemblyInfo.cs
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.csproj.CopyComplete
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.dll
+C:\Users\Elixir\source\repos\CalculatorTests\TestingOperations\obj\Debug\netcoreapp2.1\TestingOperations.pdb
